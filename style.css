@@ -1,0 +1,107 @@
+.rubik-glitch pop-regular {
+    font-family: "Rubik Glitch Pop", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .madimi-one-regular {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  *{
+    padding:0;
+    margin:0;
+  }
+
+  .container{
+    padding:20px;
+  }
+
+  .session1{
+        background-color: black;
+        color:white;
+        padding: 10px;
+  }
+  .session1--name{
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  .session1--desc{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+   .session1--contactbutton{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    display:block;
+    background-color:orange;
+    border:none;
+    border-radius: 10px;
+    padding: 5px;
+  }
+
+  .session2--about{
+    padding:10px;
+  }
+  .session2--desc{
+    padding:10px;
+  }
+
+  .session3{
+      border-radius: 20px;
+      padding:10px;
+      background-color: plum;
+      display:inline-block;
+      width:200px;
+      height:200px;
+      vertical-align:top;
+  }
+  ul{
+    list-style: none;
+  }
+
+  ul li {
+    padding-top:10px;
+    font-size: medium;
+    text-transform: capitalize;
+  }
+
+  .session4{
+    border-radius: 20px;
+    padding:10px;
+    background-color: orange;
+    display:inline-block;
+    height:200px;
+  }
+  
+.session5{
+  padding:10px;
+  background-color: black;
+  color:white;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.session5--media a{
+         color:aqua;
+         padding-right: 5px;
+}
+
+.contact--form{
+  padding-top: 10px;
+}
+
+.contact--input{
+  border:none;
+  border-bottom:solid black 2px;
+}
+
+.contact--textarea,.contact--submit,contact--input{
+  margin-top: 10px;
+}
+.container--contact{
+  padding:20px;
+}
